@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vaoyl.github.io/Dly/sitemap.Dly.gz
